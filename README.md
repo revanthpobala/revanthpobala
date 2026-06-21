@@ -8,7 +8,7 @@ I am a developer building tools for agentic workflows, developer productivity, a
 
 ### 🌐 [Skill Atlas](https://github.com/revanthpobala/skill-atlas)
 A serverless workbench and IDE designed to parse, validate, and visualize AI agent instructions as a Directed Acyclic Graph (DAG).
-* **Downloads:** [![Skill Atlas Downloads](https://img.shields.io/github/downloads/revanthpobala/skill-atlas/total?style=flat-square&color=blue)](https://github.com/revanthpobala/skill-atlas)
+* **Downloads:** [![Skill Atlas Downloads](https://img.shields.io/npm/dt/agentic-skill-validator?style=flat-square&color=blue)](https://www.npmjs.com/package/agentic-skill-validator)
 
 ### 💻 [Devin CLI](https://github.com/revanthpobala/devin-cli)
 An unofficial CLI for Devin AI that enables multi-profile configuration, session management, and JSON output pipelines.
