@@ -21,6 +21,5 @@ A high-performance semantic linter and formatter extension for TradingView's Pin
 ---
 
 ## 📬 Connect with Me
+* **LinkedIn:** [revanth1108](https://www.linkedin.com/in/revanth1108/)
 * **GitHub:** [@revanthpobala](https://github.com/revanthpobala)
-
-<!-- trigger rebuild -->
